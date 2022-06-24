@@ -1,5 +1,5 @@
 # excel-to-impex
-A script written in java to pick the necessary values and creates a file called impex which is used for data immigration.
+A script written in java to pick the necessary values and to create a file in a format called impex which is used for data immigration.
 
 An executable JAR is created after the maven package operation. 
 
